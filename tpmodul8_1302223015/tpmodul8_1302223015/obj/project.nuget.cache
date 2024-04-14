@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KVpkfk2N0CO8xVdEwkrkCetUi1CacoDL/0nl4/pKxH4YUhOLH8S3ESsY1f1tteFKx50kw1fKd1PC1nnXeVvcLA==",
+  "dgSpecHash": "j+X0DOgLJQfCmertMIoT77jTCi7Sx6gtQlJjogYkyZJbQ2bc5oRJgXOGHEqcWbje0yfUf1SIzXPsDsmdFZuVOA==",
   "success": true,
   "projectFilePath": "D:\\Telkom University\\SEMESTER 4\\KONTRUKSI PERANGKAT LUNAK\\TUGAS\\WEEK 8\\tpmodul8_1302223015\\tpmodul8_1302223015\\tpmodul8_1302223015.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\M GALANG PRADWITA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

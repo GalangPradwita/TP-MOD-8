@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Telkom University\\SEMESTER 4\\KONTRUKSI PERANGKAT LUNAK\\TUGAS\\WEEK 8\\tpmodul8_1302223015\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E2E894D-79C2-40DA-A20B-84B17BA4A4F3}|tpmodul8_1302223015\\tpmodul8_1302223015.csproj|d:\\telkom university\\semester 4\\kontruksi perangkat lunak\\tugas\\week 8\\tpmodul8_1302223015\\tpmodul8_1302223015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E2E894D-79C2-40DA-A20B-84B17BA4A4F3}|tpmodul8_1302223015\\tpmodul8_1302223015.csproj|d:\\telkom university\\semester 4\\kontruksi perangkat lunak\\tugas\\week 8\\tpmodul8_1302223015\\tpmodul8_1302223015\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E2E894D-79C2-40DA-A20B-84B17BA4A4F3}|tpmodul8_1302223015\\tpmodul8_1302223015.csproj|solutionrelative:tpmodul8_1302223015\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2E894D-79C2-40DA-A20B-84B17BA4A4F3}|tpmodul8_1302223015\\tpmodul8_1302223015.csproj|D:\\Telkom University\\SEMESTER 4\\KONTRUKSI PERANGKAT LUNAK\\TUGAS\\WEEK 8\\tpmodul8_1302223015\\tpmodul8_1302223015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E2E894D-79C2-40DA-A20B-84B17BA4A4F3}|tpmodul8_1302223015\\tpmodul8_1302223015.csproj|solutionrelative:tpmodul8_1302223015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2E894D-79C2-40DA-A20B-84B17BA4A4F3}|tpmodul8_1302223015\\tpmodul8_1302223015.csproj|d:\\telkom university\\semester 4\\kontruksi perangkat lunak\\tugas\\week 8\\tpmodul8_1302223015\\tpmodul8_1302223015\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2E894D-79C2-40DA-A20B-84B17BA4A4F3}|tpmodul8_1302223015\\tpmodul8_1302223015.csproj|solutionrelative:tpmodul8_1302223015\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "D:\\Telkom University\\SEMESTER 4\\KONTRUKSI PERANGKAT LUNAK\\TUGAS\\WEEK 8\\tpmodul8_1302223015\\tpmodul8_1302223015\\covid_config.json",
+              "RelativeDocumentMoniker": "tpmodul8_1302223015\\covid_config.json",
+              "ToolTip": "D:\\Telkom University\\SEMESTER 4\\KONTRUKSI PERANGKAT LUNAK\\TUGAS\\WEEK 8\\tpmodul8_1302223015\\tpmodul8_1302223015\\covid_config.json",
+              "RelativeToolTip": "tpmodul8_1302223015\\covid_config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T19:57:40.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\Telkom University\\SEMESTER 4\\KONTRUKSI PERANGKAT LUNAK\\TUGAS\\WEEK 8\\tpmodul8_1302223015\\tpmodul8_1302223015\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "tpmodul8_1302223015\\CovidConfig.cs",
+              "ToolTip": "D:\\Telkom University\\SEMESTER 4\\KONTRUKSI PERANGKAT LUNAK\\TUGAS\\WEEK 8\\tpmodul8_1302223015\\tpmodul8_1302223015\\CovidConfig.cs",
+              "RelativeToolTip": "tpmodul8_1302223015\\CovidConfig.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:49:34.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Telkom University\\SEMESTER 4\\KONTRUKSI PERANGKAT LUNAK\\TUGAS\\WEEK 8\\tpmodul8_1302223015\\tpmodul8_1302223015\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul8_1302223015\\Program.cs",
               "ToolTip": "D:\\Telkom University\\SEMESTER 4\\KONTRUKSI PERANGKAT LUNAK\\TUGAS\\WEEK 8\\tpmodul8_1302223015\\tpmodul8_1302223015\\Program.cs",
               "RelativeToolTip": "tpmodul8_1302223015\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T19:26:31.81Z",
               "EditorCaption": ""
